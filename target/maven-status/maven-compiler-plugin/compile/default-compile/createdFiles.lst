@@ -1,0 +1,5 @@
+com\hadoop\hadoop_test\WordCount$IntSumReducer.class
+com\hadoop\hadoop_test\TestDriver.class
+com\hadoop\hadoop_test\App.class
+com\hadoop\hadoop_test\WordCount$TokenizerMapper.class
+com\hadoop\hadoop_test\WordCount.class
